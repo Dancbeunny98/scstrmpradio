@@ -1,1 +1,1 @@
-![AppVeyor](https://img.shields.io/appveyor/ci/Dancbeunny98/scstrmpradio.svg)
+<img alt="" src="https://img.shields.io/github/release/dancebunny98/scstrmpradio/master.svg">
