@@ -1,1 +1,1 @@
-<img alt="" src="https://img.shields.io/github/release/dancebunny98/scstrmpradio/master.svg">
+(https://img.shields.io/badge/build-release-green.svg)](https://github.com/Dancbeunny98/scstrmpradio/releases)
